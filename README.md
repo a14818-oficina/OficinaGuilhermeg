@@ -63,4 +63,4 @@ O stock é armazenado num **dicionário Python**, onde:
 3. Executa no terminal:
 
 ```bash
-python nome_do_ficheiro.py
+python 1I-PSI-M3-14818-EXPA04.py

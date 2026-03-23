@@ -47,7 +47,7 @@ O programa está organizado nas seguintes funções:
 - `consultar_stock(stock)`
 - `atualizar_stock(stock)`
 - `exibir_stock(stock)`
-- `Exportar_para_ficheiro
+- `Exportar_para_ficheiro(stock)`
 - `main()`
 
 O stock é armazenado num **dicionário Python**, onde:
